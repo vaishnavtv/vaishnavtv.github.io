@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | vaishnavtv</title>
+    <link>https://vaishnavtv.github.io/publication-type/3/</link>
+      <atom:link href="https://vaishnavtv.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jun 2020 15:39:09 -0500</lastBuildDate>
+    <image>
+      <url>https://vaishnavtv.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>https://vaishnavtv.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Extended H2 Filtering for Attitude Estimation in Low Power Microprocessors</title>
+      <link>https://vaishnavtv.github.io/publication/jgcdsunsoo/</link>
+      <pubDate>Tue, 23 Jun 2020 15:39:09 -0500</pubDate>
+      <guid>https://vaishnavtv.github.io/publication/jgcdsunsoo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Lagrangian Method for Constrained Dynamics in Tensegrity Systems with Compressible Bars</title>
+      <link>https://vaishnavtv.github.io/publication/tensegritylagrangian/</link>
+      <pubDate>Sun, 02 Feb 2020 15:11:49 -0500</pubDate>
+      <guid>https://vaishnavtv.github.io/publication/tensegritylagrangian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

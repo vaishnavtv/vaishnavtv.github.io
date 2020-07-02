@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vedang Deshpande | vaishnavtv</title>
+    <link>https://vaishnavtv.github.io/author/vedang-deshpande/</link>
+      <atom:link href="https://vaishnavtv.github.io/author/vedang-deshpande/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vedang Deshpande</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2020 15:15:04 -0500</lastBuildDate>
+    <image>
+      <url>https://vaishnavtv.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Vedang Deshpande</title>
+      <link>https://vaishnavtv.github.io/author/vedang-deshpande/</link>
+    </image>
+    
+    <item>
+      <title>On Neural Network Training from Noisy Data using a Novel Filtering Framework</title>
+      <link>https://vaishnavtv.github.io/publication/scitechotnn/</link>
+      <pubDate>Sun, 05 Jan 2020 15:15:04 -0500</pubDate>
+      <guid>https://vaishnavtv.github.io/publication/scitechotnn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

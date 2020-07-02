@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sunsoo Kim | vaishnavtv</title>
+    <link>https://vaishnavtv.github.io/author/sunsoo-kim/</link>
+      <atom:link href="https://vaishnavtv.github.io/author/sunsoo-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sunsoo Kim</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jun 2020 15:39:09 -0500</lastBuildDate>
+    <image>
+      <url>https://vaishnavtv.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Sunsoo Kim</title>
+      <link>https://vaishnavtv.github.io/author/sunsoo-kim/</link>
+    </image>
+    
+    <item>
+      <title>Extended H2 Filtering for Attitude Estimation in Low Power Microprocessors</title>
+      <link>https://vaishnavtv.github.io/publication/jgcdsunsoo/</link>
+      <pubDate>Tue, 23 Jun 2020 15:39:09 -0500</pubDate>
+      <guid>https://vaishnavtv.github.io/publication/jgcdsunsoo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear  Attitude  Estimation  for  Small  UAVs  with  Low  PowerMicroprocessors</title>
+      <link>https://vaishnavtv.github.io/publication/acc2020sunsoo/</link>
+      <pubDate>Sun, 02 Feb 2020 15:35:09 -0500</pubDate>
+      <guid>https://vaishnavtv.github.io/publication/acc2020sunsoo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H2 Optimal Attitude Estimation of UAVs Using Sensor Fusion</title>
+      <link>https://vaishnavtv.github.io/publication/scitechsunsoo/</link>
+      <pubDate>Sun, 05 Jan 2020 15:23:36 -0500</pubDate>
+      <guid>https://vaishnavtv.github.io/publication/scitechsunsoo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

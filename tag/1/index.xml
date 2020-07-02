@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | vaishnavtv</title>
+    <link>https://vaishnavtv.github.io/tag/1/</link>
+      <atom:link href="https://vaishnavtv.github.io/tag/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vaishnavtv.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://vaishnavtv.github.io/tag/1/</link>
+    </image>
+    
+    <item>
+      <title>Robust LQR for Uncertain Discrete-Time Systems using Polynomial Chaos</title>
+      <link>https://vaishnavtv.github.io/publication/acc2020/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://vaishnavtv.github.io/publication/acc2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Lagrangian Method for Constrained Dynamics in Tensegrity Systems with Compressible Bars</title>
+      <link>https://vaishnavtv.github.io/publication/tensegritylagrangian/</link>
+      <pubDate>Sun, 02 Feb 2020 15:11:49 -0500</pubDate>
+      <guid>https://vaishnavtv.github.io/publication/tensegritylagrangian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Neural Network Training from Noisy Data using a Novel Filtering Framework</title>
+      <link>https://vaishnavtv.github.io/publication/scitechotnn/</link>
+      <pubDate>Sun, 05 Jan 2020 15:15:04 -0500</pubDate>
+      <guid>https://vaishnavtv.github.io/publication/scitechotnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STEDY: Software for TEnsegrity DYnamics</title>
+      <link>https://vaishnavtv.github.io/publication/joss2019/</link>
+      <pubDate>Tue, 01 Jan 2019 15:04:35 -0500</pubDate>
+      <guid>https://vaishnavtv.github.io/publication/joss2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

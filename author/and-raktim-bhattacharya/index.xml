@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>and Raktim Bhattacharya | vaishnavtv</title>
+    <link>https://vaishnavtv.github.io/author/and-raktim-bhattacharya/</link>
+      <atom:link href="https://vaishnavtv.github.io/author/and-raktim-bhattacharya/index.xml" rel="self" type="application/rss+xml" />
+    <description>and Raktim Bhattacharya</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jun 2020 15:39:09 -0500</lastBuildDate>
+    <image>
+      <url>https://vaishnavtv.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>and Raktim Bhattacharya</title>
+      <link>https://vaishnavtv.github.io/author/and-raktim-bhattacharya/</link>
+    </image>
+    
+    <item>
+      <title>Extended H2 Filtering for Attitude Estimation in Low Power Microprocessors</title>
+      <link>https://vaishnavtv.github.io/publication/jgcdsunsoo/</link>
+      <pubDate>Tue, 23 Jun 2020 15:39:09 -0500</pubDate>
+      <guid>https://vaishnavtv.github.io/publication/jgcdsunsoo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear  Attitude  Estimation  for  Small  UAVs  with  Low  PowerMicroprocessors</title>
+      <link>https://vaishnavtv.github.io/publication/acc2020sunsoo/</link>
+      <pubDate>Sun, 02 Feb 2020 15:35:09 -0500</pubDate>
+      <guid>https://vaishnavtv.github.io/publication/acc2020sunsoo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Lagrangian Method for Constrained Dynamics in Tensegrity Systems with Compressible Bars</title>
+      <link>https://vaishnavtv.github.io/publication/tensegritylagrangian/</link>
+      <pubDate>Sun, 02 Feb 2020 15:11:49 -0500</pubDate>
+      <guid>https://vaishnavtv.github.io/publication/tensegritylagrangian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H2 Optimal Attitude Estimation of UAVs Using Sensor Fusion</title>
+      <link>https://vaishnavtv.github.io/publication/scitechsunsoo/</link>
+      <pubDate>Sun, 05 Jan 2020 15:23:36 -0500</pubDate>
+      <guid>https://vaishnavtv.github.io/publication/scitechsunsoo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Neural Network Training from Noisy Data using a Novel Filtering Framework</title>
+      <link>https://vaishnavtv.github.io/publication/scitechotnn/</link>
+      <pubDate>Sun, 05 Jan 2020 15:15:04 -0500</pubDate>
+      <guid>https://vaishnavtv.github.io/publication/scitechotnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STEDY: Software for TEnsegrity DYnamics</title>
+      <link>https://vaishnavtv.github.io/publication/joss2019/</link>
+      <pubDate>Tue, 01 Jan 2019 15:04:35 -0500</pubDate>
+      <guid>https://vaishnavtv.github.io/publication/joss2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
